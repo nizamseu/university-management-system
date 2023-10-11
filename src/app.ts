@@ -1,7 +1,7 @@
 import express, { Application, Request, Response } from 'express'
 import cors from 'cors'
-import usersService from './app/modules/users/users.service'
 import usersRouter from './app/modules/users/users.route'
+import globalErrorHandler from './app/middleware/globarErrorHandler'
 
 const app: Application = express()
 
@@ -13,15 +13,13 @@ app.use(
   }),
 )
 // Application Route
+
 app.use('/api/v1/users/', usersRouter)
+
 // tesing route
 app.get('/', async (req: Request, res: Response) => {
-  await usersService.createUser({
-    id: '999',
-    password: 'dskfjsg',
-    role: 'student',
-  })
-  res.send('Hello World!')
+  res.json({ message: 'helllo' })
 })
 
+app.use(globalErrorHandler)
 export default app

@@ -1,5 +1,6 @@
 import { Request, Response } from 'express'
 import usersService from './users.service'
+import globalErrorHandler from '../../middleware/globarErrorHandler'
 
 const createUser = async (req: Request, res: Response) => {
   try {
@@ -11,10 +12,7 @@ const createUser = async (req: Request, res: Response) => {
       data: result,
     })
   } catch (error) {
-    res.status(400).json({
-      success: false,
-      message: 'Failed To Create User',
-    })
+    globalErrorHandler()
   }
 }
 
