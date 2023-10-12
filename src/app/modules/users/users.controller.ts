@@ -1,8 +1,7 @@
-import { Request, Response } from 'express'
+import { Request, Response, NextFunction } from 'express'
 import usersService from './users.service'
-import globalErrorHandler from '../../middleware/globarErrorHandler'
 
-const createUser = async (req: Request, res: Response) => {
+const createUser = async (req: Request, res: Response, next: NextFunction) => {
   try {
     const data = req.body
     const result = await usersService.createUser(data)
@@ -12,7 +11,7 @@ const createUser = async (req: Request, res: Response) => {
       data: result,
     })
   } catch (error) {
-    globalErrorHandler()
+    next(error)
   }
 }
 
