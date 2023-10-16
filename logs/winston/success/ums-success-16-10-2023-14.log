@@ -1,0 +1,24 @@
+{
+  message: 'connected To Db',
+  level: 'info',
+  label: 'UMS-info-Success',
+  timestamp: '2023-10-16T08:02:31.005Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'UMS-info-Success',
+  timestamp: '2023-10-16T08:02:31.009Z'
+}
+{
+  message: 'connected To Db',
+  level: 'info',
+  label: 'UMS-info-Success',
+  timestamp: '2023-10-16T08:04:09.565Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'UMS-info-Success',
+  timestamp: '2023-10-16T08:04:09.569Z'
+}

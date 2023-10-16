@@ -1,0 +1,30 @@
+{
+  message: 'SIGTERM is received',
+  level: 'error',
+  label: 'UMS-Error',
+  timestamp: '2023-10-16T09:15:09.099Z'
+}
+{
+  message: 'SIGTERM is received',
+  level: 'error',
+  label: 'UMS-Error',
+  timestamp: '2023-10-16T09:17:11.458Z'
+}
+{
+  message: 'SIGTERM is received',
+  level: 'error',
+  label: 'UMS-Error',
+  timestamp: '2023-10-16T09:21:09.980Z'
+}
+{
+  message: 'SIGTERM is received',
+  level: 'error',
+  label: 'UMS-Error',
+  timestamp: '2023-10-16T09:23:23.991Z'
+}
+{
+  message: 'SIGTERM is received',
+  level: 'error',
+  label: 'UMS-Error',
+  timestamp: '2023-10-16T09:23:50.479Z'
+}

@@ -2,95 +2,71 @@
   message: 'connected To Db',
   level: 'info',
   label: 'UMS-info-Success',
-  timestamp: '2023-10-11T10:37:42.281Z'
+  timestamp: '2023-10-16T09:14:38.872Z'
 }
 {
   message: 'Application listening on port 5000',
   level: 'info',
   label: 'UMS-info-Success',
-  timestamp: '2023-10-11T10:37:42.283Z'
+  timestamp: '2023-10-16T09:14:38.876Z'
 }
 {
   message: 'connected To Db',
   level: 'info',
   label: 'UMS-info-Success',
-  timestamp: '2023-10-11T10:43:39.713Z'
+  timestamp: '2023-10-16T09:16:53.613Z'
 }
 {
   message: 'Application listening on port 5000',
   level: 'info',
   label: 'UMS-info-Success',
-  timestamp: '2023-10-11T10:43:39.717Z'
+  timestamp: '2023-10-16T09:16:53.615Z'
 }
 {
   message: 'connected To Db',
   level: 'info',
   label: 'UMS-info-Success',
-  timestamp: '2023-10-11T10:48:07.558Z'
+  timestamp: '2023-10-16T09:19:17.300Z'
 }
 {
   message: 'Application listening on port 5000',
   level: 'info',
   label: 'UMS-info-Success',
-  timestamp: '2023-10-11T10:48:07.562Z'
+  timestamp: '2023-10-16T09:19:17.304Z'
 }
 {
   message: 'connected To Db',
   level: 'info',
   label: 'UMS-info-Success',
-  timestamp: '2023-10-11T10:50:12.453Z'
+  timestamp: '2023-10-16T09:22:13.594Z'
 }
 {
   message: 'Application listening on port 5000',
   level: 'info',
   label: 'UMS-info-Success',
-  timestamp: '2023-10-11T10:50:12.457Z'
+  timestamp: '2023-10-16T09:22:13.597Z'
 }
 {
   message: 'connected To Db',
   level: 'info',
   label: 'UMS-info-Success',
-  timestamp: '2023-10-11T10:50:23.996Z'
+  timestamp: '2023-10-16T09:23:45.363Z'
 }
 {
   message: 'Application listening on port 5000',
   level: 'info',
   label: 'UMS-info-Success',
-  timestamp: '2023-10-11T10:50:23.999Z'
+  timestamp: '2023-10-16T09:23:45.368Z'
 }
 {
   message: 'connected To Db',
   level: 'info',
   label: 'UMS-info-Success',
-  timestamp: '2023-10-11T10:50:51.499Z'
+  timestamp: '2023-10-16T09:24:02.615Z'
 }
 {
   message: 'Application listening on port 5000',
   level: 'info',
   label: 'UMS-info-Success',
-  timestamp: '2023-10-11T10:50:51.502Z'
-}
-{
-  message: 'connected To Db',
-  level: 'info',
-  label: 'UMS-info-Success',
-  timestamp: '2023-10-11T10:51:09.277Z'
-}
-{
-  message: 'Application listening on port 5000',
-  level: 'info',
-  label: 'UMS-info-Success',
-  timestamp: '2023-10-11T10:51:09.280Z'
-}
-{
-  message: 'connected To Db',
-  level: 'info',
-  label: 'UMS-info-Success',
-  timestamp: '2023-10-11T10:51:25.934Z'
-}
-{
-  message: 'Application listening on port 5000',
-  level: 'info',
-  label: 'UMS-info-Success',
-  timestamp: '2023-10-11T10:51:25.938Z'
+  timestamp: '2023-10-16T09:24:02.618Z'
 }

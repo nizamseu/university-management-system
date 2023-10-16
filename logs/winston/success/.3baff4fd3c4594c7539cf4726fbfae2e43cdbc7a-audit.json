@@ -6,34 +6,19 @@
     "auditLog": "/media/iou/New Volume1/nizam/Level-2/project/logs/winston/success/.3baff4fd3c4594c7539cf4726fbfae2e43cdbc7a-audit.json",
     "files": [
         {
-            "date": 1697087455578,
-            "name": "/media/iou/New Volume1/nizam/Level-2/project/logs/winston/success/ums-success-12-10-2023-11.log",
-            "hash": "ca008b2a08c61e3e906bd40767a160ee78712ab54e80b66477263a9b0248c8b2"
+            "date": 1697440006723,
+            "name": "/media/iou/New Volume1/nizam/Level-2/project/logs/winston/success/ums-success-16-10-2023-13.log",
+            "hash": "7bba0371299500725ff69dc2e1b312253dbdac0ec8a52e92d4abdf7ab5432ab5"
         },
         {
-            "date": 1697103442127,
-            "name": "/media/iou/New Volume1/nizam/Level-2/project/logs/winston/success/ums-success-12-10-2023-15.log",
-            "hash": "8567d951c68dcf705bec46b4c178262ec07378a05bca77f11db70720cc368e64"
+            "date": 1697443347762,
+            "name": "/media/iou/New Volume1/nizam/Level-2/project/logs/winston/success/ums-success-16-10-2023-14.log",
+            "hash": "a458013d88186b7d90f3622fbd8442aba2f575bbf707cfe27273dc8fcc8fb31f"
         },
         {
-            "date": 1697106996163,
-            "name": "/media/iou/New Volume1/nizam/Level-2/project/logs/winston/success/ums-success-12-10-2023-16.log",
-            "hash": "d26a3ae84c01823adcc2c0a7b3b788a3b764b7875ac9dd22fd1ccf5d0d65d39e"
-        },
-        {
-            "date": 1697108452025,
-            "name": "/media/iou/New Volume1/nizam/Level-2/project/logs/winston/success/ums-success-12-10-2023-17.log",
-            "hash": "4af8127629385b204a344f01eaf06ae4ca3dad84a9a318c43fc564f9329d6ed5"
-        },
-        {
-            "date": 1697433163939,
-            "name": "/media/iou/New Volume1/nizam/Level-2/project/logs/winston/success/ums-success-16-10-2023-11.log",
-            "hash": "7c5b10b6e6de4b626271b633abd21c72a698f250ae50e9c74c60bebd293ba989"
-        },
-        {
-            "date": 1697436878420,
-            "name": "/media/iou/New Volume1/nizam/Level-2/project/logs/winston/success/ums-success-16-10-2023-12.log",
-            "hash": "3686e6355afe080dc241575651ae35bf1646353ea0800eea4c7b9e440c508f9c"
+            "date": 1697447675734,
+            "name": "/media/iou/New Volume1/nizam/Level-2/project/logs/winston/success/ums-success-16-10-2023-15.log",
+            "hash": "9b5b3660e6f68f2f396dcd68a3113247129adb52795d3d7f7932d0ad513c8a13"
         }
     ],
     "hashType": "sha256"
