@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 import { ErrorRequestHandler, NextFunction, Request, Response } from 'express'
 import config from '../../config'
 import { IGenericErrorMessage } from '../../interfaces/error'
@@ -42,7 +43,7 @@ const globalErrorHandler: ErrorRequestHandler = (
       : []
   }
 
-  res.status(statusCode).json({
+  res?.status(statusCode).json({
     success: false,
     message,
     errorMessages,
