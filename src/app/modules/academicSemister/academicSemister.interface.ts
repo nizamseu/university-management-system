@@ -2,7 +2,7 @@ import { Model } from 'mongoose';
 
 // 1. Create an interface representing a document in MongoDB.
 
-type Month =
+export type Month =
   | 'January'
   | 'February'
   | 'March'
@@ -16,10 +16,13 @@ type Month =
   | 'November'
   | 'December';
 
+export type IAcademicSemisterTitle = 'Autum' | 'Summer' | 'Fall';
+export type IAcademicSemisterCode = '01' | '02' | '03';
+
 export type IAcademicSemister = {
-  title: 'Autum' | 'Summer' | 'Fall';
+  title: IAcademicSemisterTitle;
   year: string;
-  code: '01' | '02' | '03';
+  code: IAcademicSemisterCode;
   startMonth: Month;
   endMonth: Month;
 };
