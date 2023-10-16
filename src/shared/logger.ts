@@ -1,8 +1,8 @@
 /* eslint-disable no-undef */
-import path from 'path'
-import { createLogger, format, transports } from 'winston'
-const { combine, timestamp, label, prettyPrint } = format
-import 'winston-daily-rotate-file'
+import path from 'path';
+import { createLogger, format, transports } from 'winston';
+const { combine, timestamp, label, prettyPrint } = format;
+import 'winston-daily-rotate-file';
 // Custom Log Format
 
 const logger = createLogger({
@@ -28,7 +28,7 @@ const logger = createLogger({
       maxFiles: '14d',
     }),
   ],
-})
+});
 
 const errorLogger = createLogger({
   level: 'error',
@@ -49,5 +49,5 @@ const errorLogger = createLogger({
       maxFiles: '14d',
     }),
   ],
-})
-export { logger, errorLogger }
+});
+export { logger, errorLogger };

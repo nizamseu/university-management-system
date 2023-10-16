@@ -28,3 +28,9 @@
   label: 'UMS-Error',
   timestamp: '2023-10-16T09:23:50.479Z'
 }
+{
+  message: 'SIGTERM is received',
+  level: 'error',
+  label: 'UMS-Error',
+  timestamp: '2023-10-16T09:35:09.519Z'
+}

@@ -1,25 +1,25 @@
 {
-    "keep": {
-        "days": true,
-        "amount": 14
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "/media/iou/New Volume1/nizam/Level-2/project/logs/winston/error/.d323f4ca4309a9974d7c9ce8ffa26113f08814b7-audit.json",
+  "files": [
+    {
+      "date": 1697440006726,
+      "name": "/media/iou/New Volume1/nizam/Level-2/project/logs/winston/error/ums-error-16-10-2023-13.log",
+      "hash": "9b88ec325d0ae4c54a48511bbd26454434fcdcc5ebe1fce5721cdb46337cd0af"
     },
-    "auditLog": "/media/iou/New Volume1/nizam/Level-2/project/logs/winston/error/.d323f4ca4309a9974d7c9ce8ffa26113f08814b7-audit.json",
-    "files": [
-        {
-            "date": 1697440006726,
-            "name": "/media/iou/New Volume1/nizam/Level-2/project/logs/winston/error/ums-error-16-10-2023-13.log",
-            "hash": "9b88ec325d0ae4c54a48511bbd26454434fcdcc5ebe1fce5721cdb46337cd0af"
-        },
-        {
-            "date": 1697443347765,
-            "name": "/media/iou/New Volume1/nizam/Level-2/project/logs/winston/error/ums-error-16-10-2023-14.log",
-            "hash": "c307b5aa89551f3a28c193fb17f8a48227bea5ae93c604a1862f9b2f786aa6d4"
-        },
-        {
-            "date": 1697447675739,
-            "name": "/media/iou/New Volume1/nizam/Level-2/project/logs/winston/error/ums-error-16-10-2023-15.log",
-            "hash": "b47788e4693c535bf5db36aeb56584a8a9aa9d8031b75091ae2ca459a39319fa"
-        }
-    ],
-    "hashType": "sha256"
+    {
+      "date": 1697443347765,
+      "name": "/media/iou/New Volume1/nizam/Level-2/project/logs/winston/error/ums-error-16-10-2023-14.log",
+      "hash": "c307b5aa89551f3a28c193fb17f8a48227bea5ae93c604a1862f9b2f786aa6d4"
+    },
+    {
+      "date": 1697447675739,
+      "name": "/media/iou/New Volume1/nizam/Level-2/project/logs/winston/error/ums-error-16-10-2023-15.log",
+      "hash": "b47788e4693c535bf5db36aeb56584a8a9aa9d8031b75091ae2ca459a39319fa"
+    }
+  ],
+  "hashType": "sha256"
 }
