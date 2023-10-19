@@ -19,6 +19,11 @@
             "date": 1697695201716,
             "name": "/media/iou/New Volume/nizam/Level-2/project/logs/winston/success/ums-success-19-10-2023-12.log",
             "hash": "83d10bd6be3a3f238c2a139c4e6d76bcc8ae685a5b6118e027365f56fd5358ca"
+        },
+        {
+            "date": 1697702935715,
+            "name": "/media/iou/New Volume/nizam/Level-2/project/logs/winston/success/ums-success-19-10-2023-14.log",
+            "hash": "009161c59c23abe62fe9176d0cc2fdde1e2e106df7c3d8307b0797b84ebeacd4"
         }
     ],
     "hashType": "sha256"
