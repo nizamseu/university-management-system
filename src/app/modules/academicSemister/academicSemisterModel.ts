@@ -34,7 +34,7 @@ const academicSemisterSchema = new Schema<IAcademicSemister>(
   },
 );
 
-export const User = model<IAcademicSemister, AcademicSemisterModel>(
+export const AcademicSemester = model<IAcademicSemister, AcademicSemisterModel>(
   'AcademicSemister',
   academicSemisterSchema,
 );

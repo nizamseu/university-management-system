@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/media/iou/New Volume/nizam/Level-2/project/logs/winston/success/.98e3e4aa3f3164dbd8a271a6d9c0230b75c2b75b-audit.json",
+    "files": [
+        {
+            "date": 1697690793369,
+            "name": "/media/iou/New Volume/nizam/Level-2/project/logs/winston/success/ums-success-19-10-2023-10.log",
+            "hash": "b71cbbbd441d8d0469e383f41bcfa53ce76ebe3e126665d3fa8ca75779de5cbe"
+        },
+        {
+            "date": 1697692228927,
+            "name": "/media/iou/New Volume/nizam/Level-2/project/logs/winston/success/ums-success-19-10-2023-11.log",
+            "hash": "aed1293c93557e0032003c6f263d5d48c80e71a73a634e5598813fedc5e1bc03"
+        }
+    ],
+    "hashType": "sha256"
+}

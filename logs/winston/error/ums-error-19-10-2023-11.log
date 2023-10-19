@@ -1,0 +1,90 @@
+{
+  message: 'SIGTERM is received',
+  level: 'error',
+  label: 'UMS-Error',
+  timestamp: '2023-10-19T05:21:32.227Z'
+}
+{
+  message: 'SIGTERM is received',
+  level: 'error',
+  label: 'UMS-Error',
+  timestamp: '2023-10-19T05:22:24.346Z'
+}
+{
+  message: 'SIGTERM is received',
+  level: 'error',
+  label: 'UMS-Error',
+  timestamp: '2023-10-19T05:24:15.096Z'
+}
+{
+  message: 'SIGTERM is received',
+  level: 'error',
+  label: 'UMS-Error',
+  timestamp: '2023-10-19T05:25:37.136Z'
+}
+{
+  message: 'SIGTERM is received',
+  level: 'error',
+  label: 'UMS-Error',
+  timestamp: '2023-10-19T05:27:21.158Z'
+}
+{
+  message: 'SIGTERM is received',
+  level: 'error',
+  label: 'UMS-Error',
+  timestamp: '2023-10-19T05:29:43.865Z'
+}
+{
+  message: 'SIGTERM is received',
+  level: 'error',
+  label: 'UMS-Error',
+  timestamp: '2023-10-19T05:32:46.054Z'
+}
+{
+  message: 'SIGTERM is received',
+  level: 'error',
+  label: 'UMS-Error',
+  timestamp: '2023-10-19T05:33:37.810Z'
+}
+{
+  message: 'SIGTERM is received',
+  level: 'error',
+  label: 'UMS-Error',
+  timestamp: '2023-10-19T05:33:45.358Z'
+}
+{
+  code: 'ERR_IPC_CHANNEL_CLOSED',
+  level: 'error',
+  label: 'UMS-Error',
+  timestamp: '2023-10-19T05:33:51.945Z'
+}
+{
+  message: 'SIGTERM is received',
+  level: 'error',
+  label: 'UMS-Error',
+  timestamp: '2023-10-19T05:35:19.972Z'
+}
+{
+  message: 'SIGTERM is received',
+  level: 'error',
+  label: 'UMS-Error',
+  timestamp: '2023-10-19T05:36:24.943Z'
+}
+{
+  message: 'SIGTERM is received',
+  level: 'error',
+  label: 'UMS-Error',
+  timestamp: '2023-10-19T05:38:23.942Z'
+}
+{
+  message: 'SIGTERM is received',
+  level: 'error',
+  label: 'UMS-Error',
+  timestamp: '2023-10-19T05:39:24.080Z'
+}
+{
+  message: 'SIGTERM is received',
+  level: 'error',
+  label: 'UMS-Error',
+  timestamp: '2023-10-19T05:42:03.789Z'
+}

@@ -26,6 +26,7 @@ const globalErrorHandler: ErrorRequestHandler = (
     const simplifyError = handleZodError(error);
     statusCode = simplifyError?.statusCode;
     message = simplifyError.message;
+    errorMessages = simplifyError.errorMessages;
   } else if (error instanceof APIError) {
     statusCode = error?.statusCode;
     message = error.message;

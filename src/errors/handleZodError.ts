@@ -6,15 +6,32 @@ const handleZodError = (error: ZodError): IGenericErrorResponse => {
   const errors: IGenericErrorMessage[] = error.issues.map((issue: ZodIssue) => {
     return {
       path: issue?.path[issue.path.length - 1],
-      issue: issue?.message,
+      message: issue?.message,
     };
   });
+  console.log('error', errors);
   const statusCode = 400;
+
   return {
     statusCode,
     message: 'Validation Error',
     errorMessages: errors,
   };
 };
+
+// const handleZodError = (error: ZodError): IGenericErrorResponse => {
+//   const errors: IGenericErrorMessage[] = error.issues.map((issue: ZodIssue) => {
+//     return {
+//       path: issue?.path[issue.path.length - 1],
+//       issue: issue?.message,
+//     };
+//   });
+//   const statusCode = 400;
+//   return {
+//     statusCode,
+//     message: 'Validation Error',
+//     errorMessages: errors,
+//   };
+// };
 
 export default handleZodError;

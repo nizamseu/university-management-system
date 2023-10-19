@@ -4,7 +4,7 @@ const createAcademicSemisterZodSchema = z.object({
     title: z.enum(['Autum', 'Summer', 'Fall'], {
       required_error: 'Title is required',
     }),
-    year: z.number({
+    year: z.string({
       required_error: 'Year is required',
     }),
     code: z.enum(['01', '02', '03']),
@@ -27,7 +27,7 @@ const createAcademicSemisterZodSchema = z.object({
         required_error: 'Start Month is required',
       },
     ),
-    endtMonth: z.enum(
+    endMonth: z.enum(
       [
         'January',
         'February',
