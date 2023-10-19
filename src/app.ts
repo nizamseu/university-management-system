@@ -36,8 +36,8 @@ app.use((req: Request, res: Response, next: NextFunction) => {
 });
 
 // tesing route
-app.get('/', async (req: Request, res: Response, next: NextFunction) => {
-  throw new Error('testing Errro');
-});
+// app.get('/', async (req: Request, res: Response, next: NextFunction) => {
+//   throw new Error('testing Errro');
+// });
 
 export default app;
