@@ -1,10 +1,8 @@
 /* eslint-disable no-unused-vars */
 import express, { Application, Request, Response } from 'express';
 import cors from 'cors';
-
 import globalErrorHandler from './app/middleware/globarErrorHandler';
-import { UserRoutes } from './app/modules/users/users.route';
-import { AcademicSemesterRoutes } from './app/modules/academicSemister/academicSemister.route';
+import routers from './app/routes';
 
 // import { APIError } from './errors/ApiError'
 
@@ -19,8 +17,11 @@ app.use(
 );
 // Application Route
 
-app.use('/api/v1/users', UserRoutes.router);
-app.use('/api/v1/academic-semesters', AcademicSemesterRoutes.router);
+// app.use('/api/v1/users', UserRoutes.router);
+// app.use('/api/v1/academic-semesters', AcademicSemesterRoutes.router);
+
+app.use('/api/v1', routers);
+
 //global error handler
 app.use(globalErrorHandler);
 

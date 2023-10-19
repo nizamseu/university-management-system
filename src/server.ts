@@ -33,9 +33,9 @@ async function main() {
 
 main();
 
-process.on('SIGTERM', () => {
-  errorLogger.error('SIGTERM is received');
-  if (server) {
-    server.close();
-  }
-});
+// process.on('SIGTERM', () => {
+//   errorLogger.error('SIGTERM is received');
+//   if (server) {
+//     server.close();
+//   }
+// });
