@@ -14,6 +14,11 @@
             "date": 1697692228930,
             "name": "/media/iou/New Volume/nizam/Level-2/project/logs/winston/error/ums-error-19-10-2023-11.log",
             "hash": "757df110cd7a75206193e8cc39dddba377249b93179a7c51c49d83508f2b98c9"
+        },
+        {
+            "date": 1697695201719,
+            "name": "/media/iou/New Volume/nizam/Level-2/project/logs/winston/error/ums-error-19-10-2023-12.log",
+            "hash": "c47eebbc0cf1f57d19a4bca59801d05b4400b76d476c04d1d1dcb6db80dc629a"
         }
     ],
     "hashType": "sha256"
