@@ -1,30 +1,35 @@
 {
-  "keep": {
-    "days": true,
-    "amount": 14
-  },
-  "auditLog": "/media/iou/New Volume/nizam/Level-2/project/logs/winston/success/.98e3e4aa3f3164dbd8a271a6d9c0230b75c2b75b-audit.json",
-  "files": [
-    {
-      "date": 1697690793369,
-      "name": "/media/iou/New Volume/nizam/Level-2/project/logs/winston/success/ums-success-19-10-2023-10.log",
-      "hash": "b71cbbbd441d8d0469e383f41bcfa53ce76ebe3e126665d3fa8ca75779de5cbe"
+    "keep": {
+        "days": true,
+        "amount": 14
     },
-    {
-      "date": 1697692228927,
-      "name": "/media/iou/New Volume/nizam/Level-2/project/logs/winston/success/ums-success-19-10-2023-11.log",
-      "hash": "aed1293c93557e0032003c6f263d5d48c80e71a73a634e5598813fedc5e1bc03"
-    },
-    {
-      "date": 1697695201716,
-      "name": "/media/iou/New Volume/nizam/Level-2/project/logs/winston/success/ums-success-19-10-2023-12.log",
-      "hash": "83d10bd6be3a3f238c2a139c4e6d76bcc8ae685a5b6118e027365f56fd5358ca"
-    },
-    {
-      "date": 1697702935715,
-      "name": "/media/iou/New Volume/nizam/Level-2/project/logs/winston/success/ums-success-19-10-2023-14.log",
-      "hash": "009161c59c23abe62fe9176d0cc2fdde1e2e106df7c3d8307b0797b84ebeacd4"
-    }
-  ],
-  "hashType": "sha256"
+    "auditLog": "/media/iou/New Volume/nizam/Level-2/project/logs/winston/success/.98e3e4aa3f3164dbd8a271a6d9c0230b75c2b75b-audit.json",
+    "files": [
+        {
+            "date": 1697690793369,
+            "name": "/media/iou/New Volume/nizam/Level-2/project/logs/winston/success/ums-success-19-10-2023-10.log",
+            "hash": "b71cbbbd441d8d0469e383f41bcfa53ce76ebe3e126665d3fa8ca75779de5cbe"
+        },
+        {
+            "date": 1697692228927,
+            "name": "/media/iou/New Volume/nizam/Level-2/project/logs/winston/success/ums-success-19-10-2023-11.log",
+            "hash": "aed1293c93557e0032003c6f263d5d48c80e71a73a634e5598813fedc5e1bc03"
+        },
+        {
+            "date": 1697695201716,
+            "name": "/media/iou/New Volume/nizam/Level-2/project/logs/winston/success/ums-success-19-10-2023-12.log",
+            "hash": "83d10bd6be3a3f238c2a139c4e6d76bcc8ae685a5b6118e027365f56fd5358ca"
+        },
+        {
+            "date": 1697702935715,
+            "name": "/media/iou/New Volume/nizam/Level-2/project/logs/winston/success/ums-success-19-10-2023-14.log",
+            "hash": "009161c59c23abe62fe9176d0cc2fdde1e2e106df7c3d8307b0797b84ebeacd4"
+        },
+        {
+            "date": 1697706211474,
+            "name": "/media/iou/New Volume/nizam/Level-2/project/logs/winston/success/ums-success-19-10-2023-15.log",
+            "hash": "d433032a8da1a07040d8ef0e2aa60307f16f6b2f6c794fd09d99b1b48f2b05e6"
+        }
+    ],
+    "hashType": "sha256"
 }
